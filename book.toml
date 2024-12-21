@@ -7,11 +7,12 @@ title = "Qwerty"
 
 [output.html]
 default-theme = "light"
-preferred-dark-theme = "Ayu"
+preferred-dark-theme = "ayu"
 smart-punctuation = true
 copy-fonts = true
-no-section-label = false
+no-section-label = true
 git-repository-url = "https://github.com/jeanbarbosa"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/JeanBarbosa/jeanbarbosa.github.io/tree/main/{path}"
 input-404 = "not-found.md"
+additional-css = ["src/assets/styles.css"]
