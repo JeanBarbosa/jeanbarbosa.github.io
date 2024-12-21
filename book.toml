@@ -1,0 +1,6 @@
+[book]
+authors = ["jeanbarbosa"]
+language = "pt-br"
+multilingual = false
+src = "src"
+title = "Qwerty"
